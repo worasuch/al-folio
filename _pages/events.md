@@ -8,7 +8,7 @@ nav: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/intern2021_1.jpg' | relative_url }}" alt="" title="supervise intern student at VISTEC"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/Intern2021_1.jpg' | relative_url }}" alt="" title="supervise intern student at VISTEC"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
         <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/intern2021_2.jpg' | relative_url }}" alt="" title="supervise intern student at VISTEC"/>
